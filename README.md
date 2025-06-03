@@ -96,4 +96,4 @@ Through this analysis, several key findings emerged:
 - Availability patterns affect pricing and review rates
 
 ## Contact Me
-• LinkedIn: [Mahmoud Elnagar](www.linkedin.com/in/elnagar74)
+- **LinkedIn**: [Mahmoud Elnagar](https://linkedin.com/in/elnagar74)
