@@ -72,7 +72,7 @@ The analysis is based on the NYC Airbnb dataset from 2024, containing:
 
 1. Clone this repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/Elnagar74/NYC-Airbnb-Project.git
 ```
 
 2. Install the required packages:
